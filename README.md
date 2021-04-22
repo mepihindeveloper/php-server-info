@@ -1,4 +1,4 @@
-# php-sql-migration
+# php-server-info
 
 Компонент для работы с информацией из $_SERVER в PHP.
 
